@@ -1,0 +1,32 @@
+# Flutter-related files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Build outputs
+build/
+
+# macOS and iOS
+ios/Flutter/.last_build_id
+macos/Flutter/ephemeral/
+
+# Android
+*.iml
+.android/
+*.apk
+*.aar
+*.jks
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs and system files
+*.log
+*.tmp
+.DS_Store
+*.swp
+Thumbs.db
